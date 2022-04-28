@@ -1,3 +1,3 @@
 ### Nanotoolworks 
 
-Contract professional services in nano mfg process ... *no job too small*
+#NoJobTooSmall 🔬Contract / ForHire job shop for laboratory tool building / developmental work in the nanoscale realm as well as nanofabrication mfg engineering

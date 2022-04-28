@@ -1,3 +1,1 @@
-### Nanotoolworks 
-
-#NoJobTooSmall 🔬Contract / ForHire job shop for laboratory tool building / developmental work in the nanoscale realm as well as nanofabrication mfg engineering
+Nanotoolworks maintains open-source repositories that pertain to lab tool building and developmental work as well as nanofabrication mfg engineering for the nano realm.

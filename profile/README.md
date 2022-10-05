@@ -1,4 +1,21 @@
-Nanotoolworks curates, develops and maintains open-source repositories that pertain to the development of skills to accomplish realtime imaging, machine vision and measurement of properties at the nanoscale level. The ultimate objective is more precise automated control of process variables; the immediate objective is more informed process development intelligence or the ability to furnish a *picture* of what is happening in realtime as atoms are being deposited or etched.
+It's all about developing the skills necessary to *work at the bottom* which means that Nanotoolworks primarily works in the virtual in order to undertand and optimize the work at the nanoscale level.
+
+Nanotoolworks is open source ... which means that it's all about ***dogfooding*** the skill to accomplish realtime imaging, machine vision and measurement of properties at the nanoscale level. The ultimate objective is more precise automated control of process variables; the immediate objective is more informed process development intelligence or the ability to furnish a *picture* of what is happening in realtime as atoms are being deposited or etched.
+
+
+Our objective is to generally work toward training and skills development in:
+
+* nanofabrication, particularly atomic layer chemistry but also enabling technologies like NA EUV. 
+* hacking where optimal; coding where optimal -- this might mean Jupyter, Python and shell scripting and it might mean coding in C++ and working with various kinds of compilers to optimize multi-instance GPU code, 
+* familiarity with the wide array of competitive cloud computing options for a varied of computing tasks ... Jupyter notebooks to HPC simulations ... Colab, GCP, Lambda, Paperspace, AWS, Azure and various ways of accessing GPU to optimize a compute budget  
+* something approaching professional-level experience in K8s and Linux administration. 
+* understanding of multi-instance GPUs, CUDA programming, math libraries and 
+* excellent written communicatin and oral presentation skills.
+
+We find that classrooms do not really help us; it is is necessary to learn things the HARD way ... to actually DO them and to do that in as cost-efficient manner as possible.
+
+We encourage people to fork our repositories and develop their own writing / presentation ability as they curate, develop and maintain open-source repositories that pertain to the development of skills. Annotification of lists is fundamental building block for achieving this process of skills development ... we develop these lists for other people and our FUTURE selves.
+
 
 ### Human Machine-Augmented Learning Process in List Curation 
 
